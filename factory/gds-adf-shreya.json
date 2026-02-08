@@ -1,0 +1,9 @@
+{
+	"name": "gds-adf-shreya",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85f74739-bffc-4a31-967e-b2197f03434c",
+		"tenantId": "e8c6b0a7-e9f4-421f-875e-8493c18548c1"
+	}
+}
